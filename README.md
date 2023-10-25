@@ -1,27 +1,27 @@
-<p align="center">Just an ML student💻🤖 <br><br> I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions</p>&nbsp;
+<img src = "banner.gif" width = "325px" align = "right">
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henrique1201&theme=dark&mode=weekly"/><br><br>
- <h2>Top Language<h2/>
-<img widrh=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=dark&layout=compact"/><br><br>
- <h2>My status</h2>
-<img widrh=49% align="center" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/><br><br>
+# Just an ML student💻🤖
+  <div id="badges">
+  <a href = "https://github.com/henrique1201">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
+I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions
+
+
+<div>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C" />&nbsp;
  
- &nbsp;
- &nbsp;
-
-<div style="background-color: #f5f5f5; border-radius: 10px; padding: 20px;">
-  <h2>My Skills</h2>
-
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
-  <h2>Studying</h2>
-
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+ 
 </div>
 
+---
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=dark&layout=compact"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</div>
 
