@@ -1,8 +1,11 @@
 <p align="center">Just an ML student💻🤖 <br><br> I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henrique1201&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=dark&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=henrique1201&theme=dark&mode=weekly"/><br><br>
+ <h2>Top Language<h2/>
+<img widrh=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=dark&layout=compact"/><br><br>
+ <h2>My status</h2>
+<img widrh=49% align="center" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/><br><br>
 </div>
  
  &nbsp;
@@ -20,3 +23,5 @@
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 </div>
+
+
