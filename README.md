@@ -1,31 +1,42 @@
 
 
 # Just an ML student💻🤖
-  <div id="badges">
-    <img src = "https://media2.giphy.com/media/13HgwGsXF0aiGY/200w.webp?cid=ecf05e472iberz1nxubsfkok0ezpw838qi7ka5j7t9pkax0m&ep=v1_gifs_search&rid=200w.webp&ct=g" width = "350px" align = "right">
-  <a href = "https://www.linkedin.com/in/luiz-henrique-teixeira-viana-613a69266/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div>
+  <img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="800px" align="top">
+ 
 </div>
 
-I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions
-
+<div align="left" width="500px">
+  I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions
+</div>
 
 <div>
+  <h1>My Skills:</h1>
   
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width= "100px" title="Python" alt="Python" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width= "100px" title="C" alt="C" />&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width= "200px" title="GIT" alt="GIT" />&nbsp;
  
+ 
+</div>
+
+<div>
+  <h1>Studing:</h1>
+  
+  <img src="https://user-images.githubusercontent.com/1775316/36732568-68dc69e6-1bce-11e8-890a-5cd3a20ab8d6.gif" width= "200px" title="R" alt="R" />&nbsp;
 </div>
 
 ---
 
-
-
+<h1>My status:</h1>
 <div align = "left">
-  
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=apprentice&layout=compact"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=tokyonight&layout=compact"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
 
+<div align="right">
+  <a href = "https://www.linkedin.com/in/luiz-henrique-teixeira-viana-613a69266/" >
+     <img src = "https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width = "100px">
+  </a>
 </div>
 
