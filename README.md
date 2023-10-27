@@ -2,7 +2,7 @@
 
 # Just an ML student💻🤖
 <div>
-  <img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="820px" align="top">
+  <img src = "https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="860px" align="top">
  
 </div>
 
@@ -23,7 +23,9 @@
 <div>
   <h1>Studing:</h1>
   
-  <img src="https://user-images.githubusercontent.com/1775316/36732568-68dc69e6-1bce-11e8-890a-5cd3a20ab8d6.gif" width= "200px" title="R" alt="R" />&nbsp;
+  <img src="https://github.com/Henrique1201/Henrique1201/blob/main/R.gif" width= "150px" title="R" alt="R" />&nbsp;
+  <img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" width= "200px" title="FLASK" alt="FLASK" background="white" />&nbsp;
+  
 </div>
 
 ---
