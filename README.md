@@ -13,9 +13,11 @@
 <div>
   <h1>My Skills:</h1>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width= "100px" title="Python" alt="Python" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif" width= "100px" title="C" alt="C" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width= "200px" title="GIT" alt="GIT" />&nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75px"/>
+          
  
  
 </div>
@@ -23,8 +25,17 @@
 <div>
   <h1>Studing:</h1>
   
-  <img src="https://github.com/Henrique1201/Henrique1201/blob/main/R.gif" width= "150px" title="R" alt="R" />&nbsp;
-  <img src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" width= "200px" title="FLASK" alt="FLASK" background="white" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="75px"/>
+          
+  
+</div>
+
+<div>
+  <h1>Tools:</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="100px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="75px"/>
   
 </div>
 
@@ -35,6 +46,8 @@
   <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&show_icons=true&theme=tokyonight&layout=compact"/>
   <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
+
+
 
 <div align="right">
   <a href = "https://www.linkedin.com/in/luiz-henrique-teixeira-viana-613a69266/" >
