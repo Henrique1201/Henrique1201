@@ -57,7 +57,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/luiz-henrique-teixeira-viana-613a69266/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100px">
   </a>
