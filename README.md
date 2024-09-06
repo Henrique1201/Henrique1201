@@ -4,7 +4,7 @@
 </div>
 
 <div align="left" width="500px">
-  I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions
+  I'm deeply enthusiastic about delving into the world of Artificial Intelligence and Machine Learning, where I strive to unlock the potential of data and algorithms to create innovative solutions.
 </div>
 
 <div>
@@ -20,6 +20,12 @@
   </a>
   <a href="https://scikit-learn.org/stable/documentation.html">
     <img src="https://static-00.iconduck.com/assets.00/scikit-learn-icon-2048x1104-29jkwmx1.png" width="45px"/>
+  </a>
+  <a href="https://numpy.org/doc/">
+    <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-1901x2048-oulkqypt.png" width="45px"/>
+  </a>
+  <a href="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png">
+    <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" width="45px"/>
   </a>
 </div>
 
