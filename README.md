@@ -46,8 +46,6 @@ I'm passionate about **Artificial Intelligence** and **Machine Learning**, unloc
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique1201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique1201&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henrique1201&theme=tokyonight" alt="GitHub Streak"/>
-
 ---
 
 💬 *"Artificial intelligence is the new electricity"* - Andrew Ng
